@@ -18,14 +18,6 @@ path = Path('./dictionary.json')
 type Matches = List[str]
 type Dictionary = Dict[str,str]
 
-
-
-
-
-# print(os.environ.get('FILE_NAME'))
-# print(os.environ.get('PATH'))
-
-
 def main():
     """Executes the dictionary application."""
 
